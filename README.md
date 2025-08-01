@@ -1,2 +1,2 @@
 # github-action-demo
-demo github action testing 1
+demo github action testing 2
